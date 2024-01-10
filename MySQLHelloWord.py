@@ -63,6 +63,6 @@ def buscar():
             conexao.close()
 
 criar_tabela()
-inserir("Bruno", "Analista")
-inserir("Matheus", "Gerente")
+inserir("Bruno Alves", "Analista")
+inserir("Ponciano Matheus", "Gerente")
 buscar()
