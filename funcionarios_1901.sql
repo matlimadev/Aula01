@@ -1,3 +1,4 @@
+--DISCENTES: PONCIANO MATHEUS/BRUNO ALVES
 drop schema if exists joins;
 create schema joins;
 use joins;
